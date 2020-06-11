@@ -1,6 +1,6 @@
 # ml-assignment-II
 
-Please download the jupyter notebook and run it
+Please download the repository and run it
 
 [Pool-based Active Learning.ipynb](https://github.com/chk-vision/ml-assignment-II/blob/master/Pool-based%20Active%20Learning.ipynb)
 
